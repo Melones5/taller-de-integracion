@@ -41,3 +41,7 @@ Donde se puede:
 ## Visualización de funcionamiento
 
 Para visualizar el funcionamiento, se dejan a continuación una serie de gifs que muestran de manera resumida el funcionamiento de la página de alquileres.
+
+### Registro, Inicio, y Cierre de Sesión
+
+![](front/public/Registro%2C%20Inicio%2C%20y%20Cierre%20de%20Sesi%C3%B3n.gif)
