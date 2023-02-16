@@ -32,6 +32,8 @@ Donde se puede:
 
 - Esta aplicación está desarrollada haciendo uso de diferentes frameworks, como por ejemplo del lado del back-end, se utilizó nodejs con librerías tales como Express js, node-cron, Nodemailer. En la parte del front-end se utilizó React, Bootstrap, Antdesing y PrimeReact; y así como también se hizo uso de una base de datos relacional en PostgreSQL; se utilizó Firebase para hacer la autenticación de usuarios y Mercadopago como método de pago para alquiler de productos.
 
+![](front/public/librerias.PNG)
+
 ## Visualización de funcionamiento
 
 Para visualizar el funcionamiento, se dejan a continuación una serie de gifs que muestran de manera resumida el funcionamiento de la página de alquileres.
