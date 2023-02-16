@@ -34,6 +34,10 @@ Donde se puede:
 
 ![](front/public/librerias.PNG)
 
+## Diagrama de clases
+
+![](front/public/diagrama-de-clases.PNG)
+
 ## Visualización de funcionamiento
 
 Para visualizar el funcionamiento, se dejan a continuación una serie de gifs que muestran de manera resumida el funcionamiento de la página de alquileres.
