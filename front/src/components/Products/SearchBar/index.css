@@ -1,0 +1,25 @@
+.searchInputs {
+  margin-top: 105px;
+  display: flex;
+}
+
+.search input {
+  background-color: white;
+  border: 0;
+  font-size: 18px;
+  padding: 15px;
+  height: 30px;
+  width: 100%;
+}
+
+.searchIcon {
+  height: 60px;
+  width: 50px;
+  background-color: white;
+  display: grid;
+  place-items: center;
+}
+
+.container-search{
+  height: 55px;
+}

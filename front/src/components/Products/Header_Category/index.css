@@ -1,0 +1,15 @@
+.carousel-slider img {
+      height: 20rem;
+      opacity: 85%;
+      object-fit: cover;
+}
+
+.carousel-slider h3 {
+      font-weight: 600;
+      font-size: 30px;
+} 
+
+.carousel-slider p {
+      font-weight: 600;
+      font-size: 14px;
+} 

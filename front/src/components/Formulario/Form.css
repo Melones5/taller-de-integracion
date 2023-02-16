@@ -1,0 +1,89 @@
+/*Form register styles*/
+.form-container-register {
+  width: 100%;
+  background: #7286D3;
+  padding: 25px 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+}
+
+.register-button {
+  font-size: 13px;
+  color: white;
+  background-color: #352d39ff;
+  font-weight: 600;
+  text-align: center;
+  line-height: 16px;
+  border-radius: 6px;
+}
+
+.register-button:hover {
+  background-color: #a571ff;
+  color: #f0f0f0;
+}
+
+/*Form login styles*/
+.form-container-login {
+  width: 100%;
+  background: #7286D3;
+  padding: 25px 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+}
+
+.login-button {
+  font-size: 13px;
+  color: white;
+  background-color: #352d39ff;
+  font-weight: 600;
+  text-align: center;
+  line-height: 16px;
+  border-radius: 6px;
+  border: none;
+}
+
+.login-button:hover {
+  background-color: #a571ff;
+  color: #f0f0f0;
+}
+
+.form-h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+}
+
+.form-h5 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+}
+
+
+/*--ultra-red: #ff6978ff;
+--baby-powder: #fffcf9ff;
+--celeste: #b1ede8ff;
+--eggplant: #6d435aff;
+--black-coffee: #352d39ff;*/
+
+button.social-icon {
+  color: white;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: none;
+}
+button.social-icon:hover{
+  color: black;
+}
+
+.facebook {
+  background-color: #4267b2;
+}
+
+.google {
+  background-color: #db4437;
+}

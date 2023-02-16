@@ -1,0 +1,41 @@
+input[type = 'radio'] {
+    display: none;
+}
+
+.star {
+    cursor: pointer;
+    transition: color 200ms;
+}
+
+.form-container-review {
+    width: 100%;
+    background: #ffff;
+    padding: 25px 10px;
+    border-radius: 20px;
+    box-shadow: 0 0 11px 5px rgba(49, 48, 49, 0.268);
+}
+
+.form-h1-review {
+    font-family: 'Poppins', sans-serif;
+    font-size: 28px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+  }
+
+  .form-h2-review {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 11px;    
+    color: rgb(0, 0, 0, .55);
+  }
+
+  .reviewImg {
+    width: 180px;
+    height: 180px;
+    clip-path: circle();
+    border-radius: 50%;    
+    border: 1px solid rgba(0, 0, 0, 0.7);
+}
