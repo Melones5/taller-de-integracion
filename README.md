@@ -45,3 +45,14 @@ Para visualizar el funcionamiento, se dejan a continuación una serie de gifs qu
 ### Registro, Inicio, y Cierre de Sesión
 
 ![](front/public/Registro%2C%20Inicio%2C%20y%20Cierre%20de%20Sesi%C3%B3n.gif)
+
+### Busqueda, Filtrado, Ordenamiento y Selección de un producto
+
+
+### Selección de Producto y Funcionamiento del Carrito de Compras
+
+
+### Finalización de la Compra
+
+
+### Acceso "Mis alquileres" y visualización del detalle del alquiler
