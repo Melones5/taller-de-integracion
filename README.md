@@ -47,12 +47,19 @@ Para visualizar el funcionamiento, se dejan a continuación una serie de gifs qu
 ![](front/public/Registro%2C%20Inicio%2C%20y%20Cierre%20de%20Sesi%C3%B3n.gif)
 
 ### Busqueda, Filtrado, Ordenamiento y Selección de un producto
-
+![](front/public/Busqueda%2Cfiltrado%2Cordenamiento%20y%20selecci%C3%B3n%20de%20un%20producto.gif)
 
 ### Selección de Producto y Funcionamiento del Carrito de Compras
-
+![](front/public/Selecci%C3%B3ndeproductoyfuncionamientodelcarritodecompras.gif)
 
 ### Finalización de la Compra
-
+![](front/public/Finalizaci%C3%B3ndelacompra.gif)
 
 ### Acceso "Mis alquileres" y visualización del detalle del alquiler
+![](front/public/Accesomisalquileres.gif)
+
+### Acceso a "Mis productos"
+![](front/public/misproductos.gif)
+
+### Agregar productos
+![](front/public/agregarproducto.gif)
